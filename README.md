@@ -41,10 +41,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Bimbulli?label=Followers&style=social)](https://github.com/vumdao/?tab=follow) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/kleberbaum) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue)
 
-<img align="left" src="https://github.com/Bimbulli/Bimbulli/assets/156709258/04f7703b-b1b4-4d76-b794-1bf811e3192c" width="500" height="649" />
+<img align="left" src="https://github.com/Bimbulli/Bimbulli/assets/156709258/04f7703b-b1b4-4d76-b794-1bf811e3192c" width="400" height="519" />
 <br/> 
 
-❤️ In love with Open Source
+❤️ In love with Game Design
 
 🔭 I’m currently working on HuntingShips
 
