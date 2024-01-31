@@ -28,7 +28,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
 [instagram]: https://www.instagram.com/Bumblebeesass
-[telegram]: [https://www.linkedin.com/in/florian-k-45613113b](https://t.me/coconutbutter)
+[telegram]: https://t.me/coconutbutter
 [discussion page]: https://github.com/Bimbulli/Bimbulli/discussions/categories/ama-ask-me-anything
 
 <!-- [Thesis_SNEK.pdf](https://github.com/kleberbaum/kleberbaum/files/8387276/Thesis_SNEK.pdf) -->
