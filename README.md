@@ -46,7 +46,7 @@
 
 ❤️ In love with Game Design
 
-🔭 I’m currently working on my Bachelor
+🔭 I’m currently working on quitting League of Legends
 
 👯 I’m looking to collaborate with other coding enthusiasts
 
